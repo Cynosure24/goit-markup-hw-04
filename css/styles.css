@@ -479,7 +479,7 @@ p {
 
 .footer-social-links:hover,
 .footer-social-links:focus {
-    background-color: var(--green, #31D0A);
+    background-color: var( #31D0A);
 }
 
 .social-icons-fotter {
