@@ -211,7 +211,7 @@ p {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/bg-image.jpg);
+      url(../images/hero-bg.jpg);
     background-size: 1440рх;
     max-width: 1440px;
 }
